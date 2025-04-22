@@ -9,7 +9,7 @@
 ---
 
 ### 📸 Featured Project — [PixelVault](https://pixel-vault-mu.vercel.app)
-> A multilingual image gallery where you can explore, search, favorite, and view stunning images in 8 different languages. Built with Next.js + Tailwind + i18n + Framer Motion.  
+> A multilingual image gallery where you can explore, search, favorite, and view stunning images in 8 different languages. Built with vite.js + Tailwind + i18n + Framer Motion.  
 > 🗂 Tech Used: **React**, **vite.js**, **Tailwind CSS**, **Framer Motion**, **i18next**, **Vercel**
 
 [🔗 View Live Project](https://pixel-vault-mu.vercel.app) | [📁 GitHub Repo](https://github.com/your-username/pixel-vault)
@@ -18,14 +18,14 @@
 
 ### 🧰 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,html,css,git,github,vite" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,js,ts,css,git,github,vite" />
 </p>
 
 ---
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?hasanSadat&show_icons=true&theme=tokyonight" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=your-username&theme=tokyonight" />
 </p>
@@ -34,6 +34,7 @@
 
 ### 🌍 Let's Connect!
 <p align="center">
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/your-profile"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="hasansa739@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/amir-hasan-sadat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://t.me/AmirHasan739"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
