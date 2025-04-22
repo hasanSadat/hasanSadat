@@ -27,14 +27,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?hasanSadat&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=your-username&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com/?hasanSadat&theme=tokyonight" />
 </p>
 
 ---
 
 ### 🌍 Let's Connect!
 <p align="center">
-  <a href="hasansa739@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:hasansa739@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/amir-hasan-sadat"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://t.me/AmirHasan739"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
 </p>
